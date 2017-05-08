@@ -1,0 +1,5 @@
+D:\C# files\lastReverse\lastReverse\bin\Debug\lastReverse.exe.config
+D:\C# files\lastReverse\lastReverse\bin\Debug\lastReverse.exe
+D:\C# files\lastReverse\lastReverse\bin\Debug\lastReverse.pdb
+D:\C# files\lastReverse\lastReverse\obj\Debug\lastReverse.exe
+D:\C# files\lastReverse\lastReverse\obj\Debug\lastReverse.pdb
